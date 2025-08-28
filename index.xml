@@ -2,11 +2,11 @@
 <level>
   <owner>finveta</owner>
   <repo>sinijtraktor</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
-    <ru>68524cc9a704a44774788f0955501d16124350f431c492a98fea13393420ee6a</ru>
-    <en>dbeef7d26c0ab83d56cdd3c509018c291c1945aa1d30742e6061858f91b05c62</en>
+    <ru>7552b552f8d14b726743522bdf21a8d34775464af17845c81981fbc19084b020</ru>
+    <en>1c35c54c2fef344bd42cb3e6d8dd1f15da3134891a087c819680420fcdc7386a</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
